@@ -1,4 +1,4 @@
-package com.gupy.teste;
+package com.generic.gupy.entity;
 
 public class Fibonacci {
 
